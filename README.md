@@ -16,7 +16,9 @@ SCSS is my preferred preprocessor for writing clean and maintainable CSS.
 
 HTML5 is the backbone of my web development skills and I make sure to use semantic and accessible markup for all of my projects.
 
-<img src="https://img.icons8.com/color/48/000000/vue-js.png" width="48"> <img src="https://img.icons8.com/color/48/000000/laravel.png" width="48"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48"> <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" width="48"> <img src="https://img.icons8.com/color/48/000000/sass.png" width="48"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48">
+A new fan of ESlint which I use to keep my code clean and consistent, it helps me to follow best practices and prevent potential errors by linting my code and highlighting any issues before I run or deploy it.
+
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" width="48"> <img src="https://img.icons8.com/color/48/000000/laravel.png" width="48"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48"> <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" width="48"> <img src="https://img.icons8.com/color/48/000000/sass.png" width="48"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48"><img src="https://icons8.com/icon/RBnCyho7WRn7/eslint" width="48">
 
 Feel free to take a look at my projects and don't hesitate to reach out if you have any questions or want to collaborate on a project.
 
