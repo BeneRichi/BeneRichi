@@ -1,7 +1,7 @@
 
 ### Welcome to my GitHub Profile! 👋
 
-I am a Frontend Developer with expertise in Vue.js, Laravel, React, Javascript, Tailwind CSS, SCSS and HTML5. My skills in Vue.js allow me to create reactive and efficient user interfaces, making sure the best user experience for your web application.
+I am a Frontend Developer based in Switzerland 🇨🇭 with expertise in Vue.js, Laravel, React, Javascript, Tailwind CSS, SCSS and HTML5. My skills in Vue.js allow me to create reactive and efficient user interfaces, making sure the best user experience for your web application.
 
 I use Laravel as a PHP framework to create robust and scalable backends for my web applications, coupled with the power of Eloquent for easy database management.
 
