@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my GitHub Profile!
-I am a Full Stack Developer with expertise in Vue.js, Laravel, React, Javascript, Tailwind CSS, SCSS and HTML5.
+I am a Frontend Developer with expertise in Vue.js, Laravel, React, Javascript, Tailwind CSS, SCSS and HTML5.
 
 My skills in Vue.js allow me to create reactive and efficient user interfaces, making sure the best user experience for your web application.
 
