@@ -22,3 +22,4 @@ Feel free to take a look at my projects and don't hesitate to reach out if you h
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
