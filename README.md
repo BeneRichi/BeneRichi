@@ -14,7 +14,7 @@ A new fan of ESlint which I use to keep my code clean and consistent, it helps m
 
 ### Job and side projects 👋
 
-- 🔭 I’m working for [Valantic](https://valantic.ch) fulltime and my own projects [reefaq.io](https://reefaq.io)
+- 🔭 I’m working for [Valantic](https://valantic.ch) fulltime and my own project [reefaq.io](https://reefaq.io)
 
 - 🌱 I’m currently learning **TypeScript**.
 
