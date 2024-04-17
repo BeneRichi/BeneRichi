@@ -5,8 +5,6 @@ I am a Frontend Developer based in Switzerland 🇨🇭 with expertise in Vue.js
 
 I use Laravel as a PHP framework to create robust and scalable backends for my web applications, coupled with the power of Eloquent for easy database management.
 
-Tailwind CSS is my preferred choice for styling my web application, allowing me to quickly prototype and build responsive designs. SCSS is my preferred preprocessor for writing clean and maintainable CSS.
-
 HTML5 is the backbone of my web development skills and I make sure to use semantic and accessible markup for all of my projects.
 
 A new fan of ESlint which I use to keep my code clean and consistent, it helps me to follow best practices and prevent potential errors by linting my code and highlighting any issues before I run or deploy it.
