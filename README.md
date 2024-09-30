@@ -12,11 +12,7 @@ A new fan of ESlint which I use to keep my code clean and consistent, it helps m
 
 ### Job and side projects 👋
 
-- 🔭 I’m working for [Valantic](https://valantic.ch) fulltime and my own project [reefaq.io](https://reefaq.io)
-
-- 🌱 I’m currently learning **TypeScript**.
-
-- 👯 I’m looking to collaborate on [Reef Web DApp](https://app.reef.io) I am currently using React.js as it is the primary framework for the fork of the Reef Web App that I am working on privately. My goal is to contribute my changes and improvements to the original team's project.
+- 🔭 I’m working for [Valantic](https://valantic.ch) 
 
 - 📫 How to reach me **hello@codio.ch**
 
